@@ -1,0 +1,7 @@
+{
+  "name": "sentry-ionic-angular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

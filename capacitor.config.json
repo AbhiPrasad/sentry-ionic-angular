@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "sentry-ionic-angular",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
